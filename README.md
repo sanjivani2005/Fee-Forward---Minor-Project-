@@ -1,6 +1,6 @@
-# 🍲 Fee-Forward — Bridging the Gap Between Waste Food & Hungry People
+# 🍲 Feed-Forward — Bridging the Gap Between Waste Food & Hungry People
 
-**Fee-Forward** is a social impact web application designed to connect individuals, restaurants, and event organizers with surplus food to NGOs, volunteers, and people in need.  
+**Feed-Forward** is a social impact web application designed to connect individuals, restaurants, and event organizers with surplus food to NGOs, volunteers, and people in need.  
 Our mission is to reduce food wastage and ensure that edible food reaches hungry people in time.
 
 ---
